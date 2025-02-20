@@ -1,5 +1,5 @@
 # School-Management-Design
-This code is only for educational perpose to how to developer school managment system
+This code is only for educational perpose to how to developer school managment system with the Java Swing framework 
 <br/><br/>
 
 ![2021-10-05_103049](https://github.com/Pinankh/School-Management-Design/blob/main/screenshot/s1.png)
